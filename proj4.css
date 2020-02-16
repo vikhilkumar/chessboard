@@ -1,0 +1,31 @@
+td{
+	height:50px;
+	width:50px;
+	border:2px solid gray;
+}
+td{
+	height:50px;
+	width:50px;
+	border:2px solid gray;
+}
+#white{
+	background:white;
+}
+#black{
+	background:black;
+}
+table{
+	margin:auto;
+}
+h2{
+	font-family: 'Akronim', cursive;
+	font-size:50px;
+	text-align:center;
+}
+h2:hover{
+	color:#4dab9b;
+}
+table{
+	border:3px solid gray;
+	padding:0px;
+}
